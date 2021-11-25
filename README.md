@@ -7,7 +7,7 @@ MITx token on Polygon Network (PoS): 0x31042a4e66eda0d12143ffc8cc1552d611da4cba
 
 You can further verify it from https://polygonscan.com/token/0x31042a4e66eda0d12143ffc8cc1552d611da4cba
 
-The audit report for the Polygon PoS bridge
+The audit report for the Polygon PoS bridge (MITx on Polygon is using Polygon PoS Bridge)
 
 https://github.com/maticnetwork/pos-portal/files/5404262/Matic.Audit.CertiK.Report.pdf
 

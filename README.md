@@ -13,7 +13,7 @@ https://github.com/maticnetwork/pos-portal/files/5404262/Matic.Audit.CertiK.Repo
 
 The smart contract for staking campaign manager: `0x3E461f8DEd5f5420CB9D31B2fAFccABa1B183436`
 
-The smart contract for staking campaign on Polygon: 
+The smart contract for staking campaign on Polygon: `0xb42eF715ba2273097C15BbcaA896D7bfBd860393`
 
 `The audit report for the MITx staking campaigns smart contracts "MITx Staking Security Audit Report.pdf" is included in this repository`.
 

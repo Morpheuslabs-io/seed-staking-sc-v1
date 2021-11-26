@@ -11,9 +11,11 @@ The audit report for the Polygon PoS bridge (MITx on Polygon is using Polygon Po
 
 https://github.com/maticnetwork/pos-portal/files/5404262/Matic.Audit.CertiK.Report.pdf
 
-The smart contracts for staking campaign manager and staking campaign on Polygon: 
+The smart contract for staking campaign manager: `0x3E461f8DEd5f5420CB9D31B2fAFccABa1B183436`
 
-The audit report for the MITx staking campaigns smart contracts "MITx Staking Security Audit Report.pdf" is included in this repository.
+The smart contract for staking campaign on Polygon: 
+
+`The audit report for the MITx staking campaigns smart contracts "MITx Staking Security Audit Report.pdf" is included in this repository`.
 
 
 
